@@ -1,0 +1,26 @@
+{
+  "name": "test-node-api",
+  "version": "1.0.0",
+  "description": "api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/birth-mark/shop.git"
+  },
+  "keywords": [
+    "test",
+    "task"
+  ],
+  "author": "lera.slyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birth-mark/shop/issues"
+  },
+  "homepage": "https://github.com/birth-mark/shop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
